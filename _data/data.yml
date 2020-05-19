@@ -3,42 +3,43 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Shingo Obata
+    tagline: Forest Scientist
+    avatar: rsz_newselfie2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: s.obata5632@gmail.com
+    # phone: 012 345 6789
+    researchgate: Shingo_Obata
+    linkedin: shingo-obata-b48a25106
+    github: ShingObt
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ShingObt'
+    website: www.ShingoObata.com
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Japanese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Fair
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Kendo (Japanese martial arts)
         link:
 
       - item: Cooking
@@ -47,27 +48,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Under construction
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph. D. in Forestry and Natural Resources
+      university: University of Georgia
+      time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Dissertation title: Application of Landsat time series to the spatially explicit estimation of the forest disturbance history and growing stock volume in Georgia, United States
+
+    - degree: MSc in Forest Science
+      university: University of Tokyo
+      time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -117,9 +108,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This section is Under construction.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -142,26 +131,50 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
+
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    Articles published since 2015. 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  papers:
+      - title: Mapping Forest Disturbances between 1987-2016 Using All Available Time Series Landsat TM/ETM+ Imagery Developing a Reliable Methodology for Georgia, United States.
+        link: "http: //dx.doi.org/10.3390/f11030335"
+        authors: Obata, Shingo, Pete Bettinger, Chris J. Cieszewski, and Roger C. Lowe III
+        conference: Forests 11.3, p. 335. 2020.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+
+
+      - title: Preliminary analysis of forest stand disturbances in coastal Georgia (USA) using Landsat time series stacked imagery.
+        link: "https://doi.org/10.15684/formath.001"
+        authors: Obata, Shingo, Chris Cieszewski, Pete Bettinger, Roger C. Lowe III, and Sergio Bernardes
+        conference:  FORMATH 18, pp. 1–11. 2019.
+
+
+
+
+      - title: Evaluation of sites for the reestablishment of the American chestnut (Castanea dentata) in northeast Georgia, USA.
+        link: "https://doi.org/10.1007/s10980-019-00818-7"
+        authors: Zhang, Siyu, Pete Bettinger, Chris Cieszewski, Scott Merkle, Krista Merry, Shingo Obata, Xingyuan He, and Haifeng Zheng
+        conference: Landscape Ecology 34.4, pp. 943–960. 2019.
+
+
+
+      - title: Estimation of forest stand disturbance through implementation of vegetation change tracker algorithm using Landsat time series stacked imagery in coastal Georgia.
+        link: https://doi.org/10.5849/FS2017-040
+        authors: Obata, Shingo
+        conference: Mathematical and Computational Forestry and Natural-Resource Sciences 10.1, p. 32. 2018.
+
+
+      - title: Spatial forest plan development using heuristic processes seeded with a relaxed linear programming solution.
+        link: https://doi.org/10.5849/FS2017-040
+        authors: Akbulut, Ramazan, Pete Bettinger, Zennure Ucar, Shingo Obata, Kevin Boston, and Jacek Siry
+        conference: Forest Science 63.5, pp. 518–528. 2017.
+
+
+      - title: The development process of research into the theory for the determination of optimal harvest age.
+        authors: Obata, Shingo, Shin Nagata, Hiromichi Furuido, and Taro Takemoto 
+        conference: Kanto Forest Research 66.2, pp. 221–224. 2015.
+
 
 skills:
     title: Skills &amp; Proficiency
