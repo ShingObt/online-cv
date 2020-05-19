@@ -134,9 +134,8 @@ publications:
 
     title: Publications
     intro: |
-    Articles published since 2015. 
-
-  papers:
+        Articles published since 2015. 
+    papers:
       - title: Mapping Forest Disturbances between 1987-2016 Using All Available Time Series Landsat TM/ETM+ Imagery Developing a Reliable Methodology for Georgia, United States.
         link: "http: //dx.doi.org/10.3390/f11030335"
         authors: Obata, Shingo, Pete Bettinger, Chris J. Cieszewski, and Roger C. Lowe III
