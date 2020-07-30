@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://webjeda.com/online-cv/</loc>
+<loc>http://0.0.0.0:4000/online-cv/</loc>
 </url>
 <url>
-<loc>http://webjeda.com/online-cv/alarmclock.html</loc>
-<lastmod>2020-05-20T00:18:33-04:00</lastmod>
+<loc>http://0.0.0.0:4000/online-cv/alarmclock.html</loc>
+<lastmod>2020-07-29T21:25:16-04:00</lastmod>
 </url>
 </urlset>

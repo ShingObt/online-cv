@@ -1,1 +1,1 @@
-Sitemap: http://webjeda.com/online-cv/sitemap.xml
+Sitemap: http://0.0.0.0:4000/online-cv/sitemap.xml
